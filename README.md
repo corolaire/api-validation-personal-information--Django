@@ -6,7 +6,7 @@ To run this app you have to install in your local. (Maybe there is a requirement
 ```
 pip install django
 pip install djangorestframework
-pip install coreapi
+
 ```
 
 If you have a doubt you can visit `settings.py` file on block `INSTALLED_APP`.
